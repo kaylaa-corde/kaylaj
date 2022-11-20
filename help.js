@@ -5,8 +5,7 @@
 var monoSpace = '```'
 
 exports.listmenu = (sender,prefix,ad,namenya,premnya,usernya,romnya,tanggal,jam) => {
-return`━━━❲ 𝙂𝙐𝙍𝘽𝙊𝙏-𝙈𝘿 ❳━━━
-┏━━━━━━━━━━━━━
+return`━━━[ KAYYBOTZ ]━━━━━━━
 ┣━( 𝗨𝗦𝗘𝗥 𝗜𝗡𝗙𝗢 )
 ┃▤ ID : @${sender.split('@')[0]}
 ┃▤ Nama : ${namenya}
@@ -728,8 +727,8 @@ Number: 085789004732
 A/N: LEXXY STORE
 
 *Payment Dana*
-Number: 085789004732
-A/N: LEXXY OFFICIAL
+Number: 089669785644
+A/N: Kaylaa
 
 ${monoSpace}Terimakasih untuk kamu yang sudah donasi untuk perkembangan bot ini ^_^${monoSpace}
 
@@ -740,17 +739,17 @@ exports.infoOwner = () =>{
 return`──「 *INFO OWNER* 」──
 
  *Data Profil*
- • *Nama:* Lexxy Official
- • *Umur:* 18 tahun
+ • *Nama:* Kaylaa
+ • *Umur:* 89 tahun
  • *Hoby:* Turu/Game
- • *Askot:* Palembang
+ • *Askot:* Jakarta 
  • *Konten:* Creator
 
 _iam developer bot whatsapp._
 
  *Sosial Media*
- • *Whatsapp:* 083834558105
- • *Youtube:* Lexxy Official
- • *Github:* Lexxy24
+ • *Whatsapp:* 085939048622
+ • *Youtube:* Ga punya
+ • *Github:* -
  `
 }
